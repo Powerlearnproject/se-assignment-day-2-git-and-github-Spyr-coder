@@ -79,10 +79,12 @@ It may be usefull when experinmenting without risk, contributing to open source 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 GitHub provides Issues and Project Boards as powerful tools for tracking bugs, managing tasks, and improving project organization. These features enhance collaboration by offering a structured way to document problems, assign tasks, and track progress. Issues act as a lightweight task management system within a repository.
 
+
 |Issue|	Label|	Assignee|
-|"App crashes when adding a new task"|	bug	|Mutua|
+|"App crashes when adding a new task"|	bug	| Mutua|
 |"Add dark mode support"	enhancement|	Janice|
 |"Improve UI for mobile devices" |UI/UX|	Campell|
+
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 Common Challenges;
